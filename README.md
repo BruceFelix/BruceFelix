@@ -1,8 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on building my portfolio
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Web security with portswigger
 - 👯 I’m looking to collaborate on Frontend and Python projects
-- 🤔 I’m looking for help with Flask python framework.
 - 💬 Ask me about Frontend development
 - 📫 How to reach me: brucefelixm@gmail.com
 - 😄 Pronouns: He
