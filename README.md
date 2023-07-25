@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on building my portfolio<br>- 🌱 I’m currently learning Full stack Software development with Jenga School<br>- 📫 How to reach me: brucefelixm@gmail.com<br>- 😄 Pronouns: He<br>- ⚡ Fun fact: Never let a computer know you are in a hurry.
+- 🔭 I’m currently working on building my portfolio<br>- 🌱 I’m currently learning Full stack Software development with Jenga School<br>- 📫 How to reach me: brucefelixm@gmail.com<br>-  ⚡ Fun fact: Never let a computer know you are in a hurry.
 
 
 ## 🌐 Socials:
